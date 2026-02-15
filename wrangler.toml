@@ -5,4 +5,4 @@ compatibility_date = "2024-01-01"
 [[d1_databases]]
 binding = "DB" # Code ထဲက ctx.env.DB နဲ့ ကိုက်အောင်
 database_name = "client1_db" # မင်းဆောက်ထားတဲ့ DB နာမည်
-database_id = "c4eeb98b" # DB ရဲ့ ID
+database_id = "0c9963a5-3ca1-414b-93f2-a1b0895b20ad" # DB ရဲ့ ID
