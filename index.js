@@ -115,7 +115,7 @@ bot.command("botnews", async (ctx) => {
 // /feedback - Reviews တွေကြည့်ဖို့
 bot.command("feedback", async (ctx) => {
   const keyboard = new InlineKeyboard()
-    .url("📝 Go to Real Reviews", "https://t.me/SellingByOuriky")
+    .url("📝 Go to Real Reviews", "https://t.me/SellingByOuriky/1827")
     .row()
     .text("🏠 Back to Home", "back_home");
 
